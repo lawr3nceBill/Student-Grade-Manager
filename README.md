@@ -59,6 +59,4 @@ The application uses the following grade scale:
 
 This project is open source and available under the MIT License.
 
----
 
-**Happy Grading! 📚✨**
